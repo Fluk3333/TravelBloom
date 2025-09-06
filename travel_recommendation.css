@@ -46,13 +46,19 @@ nav {
   }
   h1{
     text-align: center;
-    color: #161212;
+    color: #000000;
     font: bold;
   }
 
   h3{
     text-align: center;
-    color: #161212;
+    color: #000000;
+    font: bold;
+  }
+
+  p{
+    text-align: center;
+    color: #000000;
     font: bold;
   }
   
@@ -87,6 +93,13 @@ nav {
   /* Basic CSS for the report section */
   h2 {
     margin-top: 30px;
+    text-align: center;
+    font-size: 100px;
+  }
+
+  span
+  {
+    background-color: grey;
   }
   
   #report,#result {
